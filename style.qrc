@@ -1,0 +1,23 @@
+<RCC>
+    <qresource prefix="/radiobutton">
+        <file>style/radioButton/1.png</file>
+        <file>style/radioButton/2.png</file>
+        <file>style/radioButton/3.png</file>
+        <file>style/radioButton/4.png</file>
+    </qresource>
+    <qresource prefix="/spinbox">
+        <file>style/spinBox/down.png</file>
+        <file>style/spinBox/up.png</file>
+    </qresource>
+    <qresource prefix="/qss">
+        <file>style/style.qss</file>
+    </qresource>
+    <qresource prefix="/Button">
+        <file>style/button/1.png</file>
+        <file>style/button/2.png</file>
+        <file>style/button/3.png</file>
+        <file>style/button/4.png</file>
+        <file>style/button/5.png</file>
+        <file>style/button/6.png</file>
+    </qresource>
+</RCC>
